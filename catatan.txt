@@ -4,3 +4,10 @@ Buat repositori di github
 	copas link repository
 - push ke github
 	syntax = git init
+		git add . //untuk push data
+		git commit -m "first commit"
+		git remote add origin https://github.com/msramdan/apprestapi.git
+		git remote -v
+		git push -f origin master
+- instal exprees mysql dan body parsher 
+		= npm install --save express mysql body-parser
