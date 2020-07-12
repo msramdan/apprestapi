@@ -1,0 +1,6 @@
+Buat repositori di github
+- lakukan inisialisasi project node js
+	syntax = npm init
+	copas link repository
+- push ke github
+	syntax = git init
